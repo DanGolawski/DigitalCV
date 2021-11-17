@@ -1,0 +1,21 @@
+#left-menu {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+#left-menu p {
+    width: intrinsic;           
+    width: -moz-max-content;    
+    width: -webkit-max-content; 
+    width: max-content;
+    margin-left: 10px;
+    flex-grow: 1;
+    cursor: pointer;
+    font-size: 2vh;
+}
+
+.hid {
+    opacity: 0;
+}

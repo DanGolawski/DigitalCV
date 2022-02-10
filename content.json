@@ -3,6 +3,13 @@
         "title": "Experience",
         "modules": [
             {
+                "image": "images/ey.png",
+                "time": "since 01.2022",
+                "title": "EY - Data Engineer (Internship)",
+                "description": "I have been working as a member of Data Engineering team which develops text recognition application for documents.",
+                "link": ""
+            },
+            {
                 "image": "images/cez.jpg",
                 "time": "since 03.2021",
                 "title": "Centrum e-Zdrowia - Frontend Developer",

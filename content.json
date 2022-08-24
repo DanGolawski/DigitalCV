@@ -4,28 +4,28 @@
         "modules": [
             {
                 "image": "images/ey.png",
-                "time": "since 01.2022",
+                "time": "3 months",
                 "title": "EY - Data Engineer (Internship)",
                 "description": "I have been working as a member of Data Engineering team which develops text recognition application for documents.",
                 "link": ""
             },
             {
                 "image": "images/cez.jpg",
-                "time": "since 03.2021",
+                "time": "18 months",
                 "title": "Centrum e-Zdrowia - Frontend Developer",
                 "description": "I was working on application for public sector - a system to manage blood donations in Poland. I was a member of LeSS frontend team.",
                 "link": "https://www.gov.pl/web/nck/e-krew-informatyzacja-publicznej-sluzby-krwi-oraz-rozwoj-nadzoru-nad-krwiolecznictwem"
             },
             {
                 "image": "images/bosch.png",
-                "time": "since 03.2020",
+                "time": "11 months",
                 "title": "Bosch - Frontend Developer",
                 "description": "I worked on a CRUD frontend application of fleet management project written in Angular Framework. I was a member of Polish-German team.",
                 "link": ""
             },
             {
                 "image": "images/santander.png",
-                "time": "since 07.2019",
+                "time": "9 months",
                 "title": "Santander - Backend Developer",
                 "description": "I worked on a project for a new insurance product. I was a member of the agile backend team and worked in Java and Spring technologies building the application in microservices architecture.",
                 "link": ""
@@ -140,13 +140,13 @@
                 "image": "images/project.png",
                 "title": "Frontend Flashcards",
                 "description": "Simple Angular project written in Angular as flashcards. Demo is shown in link below.",
-                "link": "https://www.instagram.com/p/CJ_P7zNHwPa/"
+                "link": ""
             },
             {
                 "image": "images/project.png",
                 "title": "Porsche Recognizer",
                 "description": "Machine Learning project which recognizes Porsche car on images. (Demo in link below)",
-                "link": "https://www.instagram.com/p/CDUlgBHJ4Ko/"
+                "link": ""
             },
             {
                 "image": "images/project.png",
@@ -190,30 +190,37 @@
         "modules": [
             {
                 "image": "images/suez.png",
-                "time": " since 07.2018",
+                "time": "",
                 "title": "Suez Poland (PreZero) - Dev Intern",
                 "description": "I worked on WEB and mobile applications written in low-code application Mendix.",
                 "link": ""
             },
             {
                 "image": "images/instakod.png",
-                "time": "since 09.2020",
+                "time": "",
                 "title": "Instakod - Programming Teacher",
                 "description": "I teached Python language basics in programming school for kids - very challenging.",
                 "link": ""
             },
             {
                 "image": "images/sfbcc.png",
-                "time": "since 09.2020",
+                "time": "",
                 "title": "SFBCC - member",
                 "description": "I was a member of FR team organizing partners for an event. It was good practice of soft skills",
                 "link": ""
             },
             {
                 "image": "images/pzu.jpg",
-                "time": "since 08.2021",
+                "time": "",
                 "title": "PZU - Assistance Consultant",
                 "description": "I worked as Assistance Consultant - organized roadside assistance and cars. It was great opportunity to practice patience and quiet in stressfull situations.",
+                "link": ""
+            },
+            {
+                "image": "images/sda.png",
+                "time": "",
+                "title": "Programming Trainer",
+                "description": "I have been programming trainer in bootcamp lessons with HTML, CSS, JavaScript, http and Angular",
                 "link": ""
             }
         ]
@@ -248,22 +255,10 @@
                 "link": "https://github.com/DanGolawski"
             },
             {
-                "image": "images/linkedin.jpg",
-                "title": "LinkedIn",
-                "description": "",
-                "link": "https://www.linkedin.com/in/daniel-go%C5%82awski-9b20b5179/"
-            },
-            {
                 "image": "images/medium.png",
                 "title": "Medium",
                 "description": "",
                 "link": "https://dangolawski.medium.com/"
-            },
-            {
-                "image": "images/instagram.png",
-                "title": "Instagram",
-                "description": "",
-                "link": "https://www.instagram.com/dan_golawski/"
             }
         ]
 

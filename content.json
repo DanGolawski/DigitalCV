@@ -3,15 +3,8 @@
         "title": "Experience",
         "modules": [
             {
-                "image": "images/ey.png",
-                "time": "3 months",
-                "title": "EY - Data Engineer (Internship)",
-                "description": "I have been working as a member of Data Engineering team which develops text recognition application for documents.",
-                "link": ""
-            },
-            {
                 "image": "images/cez.jpg",
-                "time": "18 months",
+                "time": "20 months",
                 "title": "Centrum e-Zdrowia - Frontend Developer",
                 "description": "I was working on application for public sector - a system to manage blood donations in Poland. I was a member of LeSS frontend team.",
                 "link": "https://www.gov.pl/web/nck/e-krew-informatyzacja-publicznej-sluzby-krwi-oraz-rozwoj-nadzoru-nad-krwiolecznictwem"
@@ -36,45 +29,15 @@
         "title": "My Tech Stack",
         "modules": [
             {
-                "image": "images/python.png",
-                "title": "Python",
-                "description": "This is my target language to work with. My experience is based on studies and non commercial projects - mainly machine learning and Data Science ones (neural nerworks from scratch, image recognition, keras, tensorflow, numpy, pandas). I have teached Python as a programming teacher in Instakod firm.",
-                "link": ""
-            },
-            {
                 "image": "images/js.png",
                 "title": "JavaScript",
                 "description": "The language I have the biggest experience with. I has been working commercially with JS since I started working from Bosch. I train my skills also in non commercial projects.",
                 "link": ""
             },
             {
-                "image": "images/java.png",
-                "title": "Java",
-                "description": "I have commercial experience as Backend Developer (Santander). I know microservice architecture and train my skills in non commercial project - Data Science and backend for my applications.",
-                "link": ""
-            },
-            {
                 "image": "images/angular.png",
                 "title": "Angular",
                 "description": "Currently I have biggest commercial experience as Angular Developer. I have been building Angular application since 2020. I know Angular 2+, RXJS, Angular Material, PrimeNG and code techniques",
-                "link": ""
-            },
-            {
-                "image": "images/keras.png",
-                "title": "Keras",
-                "description": "Non commercial experience - I use it in my Machine Learning projects.",
-                "link": ""
-            },
-            {
-                "image": "images/spring.png",
-                "title": "Spring",
-                "description": "I have commercial experience with Spring. I worked as Backend Developer. Currently I try to improve my commercial experience. I have also non commercial projects written in this framework.",
-                "link": ""
-            },
-            {
-                "image": "images/flask.png",
-                "title": "Flask",
-                "description": "I have worked with this micro-framework while I worked on my thesis. Microservices written in Flask were the major part of my application.",
                 "link": ""
             },
             {
@@ -90,21 +53,57 @@
                 "link": ""
             },
             {
+                "image": "images/git.png",
+                "title": "Git",
+                "description": "Experience gained at commercial work.",
+                "link": ""
+            },
+            {
+                "image": "images/firebase.png",
+                "title": "Firebase",
+                "description": "Cloud NoSQL database I use in my frontend projects",
+                "link": ""
+            },
+            {
+                "image": "images/python.png",
+                "title": "Python",
+                "description": "This is my target language to work with. My experience is based on studies and non commercial projects - mainly machine learning and Data Science ones (neural nerworks from scratch, image recognition, keras, tensorflow, numpy, pandas). I have teached Python as a programming teacher in Instakod firm.",
+                "link": ""
+            },
+            {
+                "image": "images/flask.png",
+                "title": "Flask",
+                "description": "I have worked with this micro-framework while I worked on my thesis. Microservices written in Flask were the major part of my application.",
+                "link": ""
+            },
+            {
+                "image": "images/java.png",
+                "title": "Java",
+                "description": "I have commercial experience as Backend Developer (Santander). I know microservice architecture and train my skills in non commercial project - Data Science and backend for my applications.",
+                "link": ""
+            },
+            {
+                "image": "images/spring.png",
+                "title": "Spring",
+                "description": "I have commercial experience with Spring. I worked as Backend Developer. Currently I try to improve my commercial experience. I have also non commercial projects written in this framework.",
+                "link": ""
+            },
+            {
                 "image": "images/android.jpeg",
                 "title": "Android",
                 "description": "I have developed two non commercial applications. My experience is based on developing in Java and Android Studio.",
                 "link": ""
             },
             {
-                "image": "images/tensorflow.png",
-                "title": "Tensorflow",
-                "description": "Cloud application I used in my mobile and frontend projects",
+                "image": "images/keras.png",
+                "title": "Keras",
+                "description": "Non commercial experience - I use it in my Machine Learning projects.",
                 "link": ""
             },
             {
-                "image": "images/git.png",
-                "title": "Git",
-                "description": "Experience gained at commercial work.",
+                "image": "images/tensorflow.png",
+                "title": "Tensorflow",
+                "description": "Cloud application I used in my mobile and frontend projects",
                 "link": ""
             }
         ]
@@ -160,15 +159,15 @@
         "title": "Skills",
         "modules": [
             {
-                "image": "images/machinelearning.png",
-                "title": "Machine Learning & Data Science",
-                "description": "studies at Polish Japanese Academy of Information Technology, non commercial projects",
-                "link": ""
-            },
-            {
                 "image": "images/frontend.jpg",
                 "title": "Web Development - Frontend",
                 "description": "commercial experience, non commercial projects",
+                "link": ""
+            },
+            {
+                "image": "images/machinelearning.png",
+                "title": "Machine Learning & Data Science",
+                "description": "studies at Polish Japanese Academy of Information Technology, non commercial projects",
                 "link": ""
             },
             {

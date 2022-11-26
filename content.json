@@ -4,7 +4,7 @@
         "modules": [
             {
                 "image": "images/cez.jpg",
-                "time": "20 months",
+                "time": "22 months",
                 "title": "Centrum e-Zdrowia - Frontend Developer",
                 "description": "I was working on application for public sector - a system to manage blood donations in Poland. I was a member of LeSS frontend team.",
                 "link": "https://www.gov.pl/web/nck/e-krew-informatyzacja-publicznej-sluzby-krwi-oraz-rozwoj-nadzoru-nad-krwiolecznictwem"
@@ -237,7 +237,7 @@
             {
                 "image": "images/pjatk.png",
                 "time": "since 10.2021",
-                "title": "Polish Japanese Academy of Information Technology - Data Science",
+                "title": "Polish Japanese Academy of Information Technology - IT spec. Project Management",
                 "description": "",
                 "link": ""
             }

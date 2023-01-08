@@ -1,0 +1,295 @@
+{
+  "experience": {
+      "title": "Experience",
+      "modules": [
+        {
+          "image": "images/santander.png",
+          "time": "9 months",
+          "title": "Santander - Backend Developer",
+          "description": "I worked on a project for a new insurance product. I was a member of the agile backend team and worked in Java and Spring technologies building the application in microservices architecture.",
+          "link": ""
+        },
+        {
+            "image": "images/cez.jpg",
+            "time": "24 months",
+            "title": "Centrum e-Zdrowia - Frontend Developer",
+            "description": "I was working on application for public sector - a system to manage blood donations in Poland. I was a member of LeSS frontend team.",
+            "link": "https://www.gov.pl/web/nck/e-krew-informatyzacja-publicznej-sluzby-krwi-oraz-rozwoj-nadzoru-nad-krwiolecznictwem"
+        },
+        {
+            "image": "images/bosch.png",
+            "time": "11 months",
+            "title": "Bosch - Frontend Developer",
+            "description": "I worked on a CRUD frontend application of fleet management project written in Angular Framework. I was a member of Polish-German team.",
+            "link": ""
+        }
+      ]
+  },
+  "technologies": {
+      "title": "My Tech Stack",
+      "modules": [
+        {
+          "image": "images/java.png",
+          "title": "Java",
+          "description": "I have commercial experience as Backend Developer (Santander). I know microservice architecture and train my skills in non commercial project - Data Science and backend for my applications.",
+          "link": ""
+        },
+        {
+            "image": "images/spring.png",
+            "title": "Spring",
+            "description": "I have commercial experience with Spring. I worked as Backend Developer. Currently I try to improve my commercial experience. I have also non commercial projects written in this framework.",
+            "link": ""
+        },
+        {
+          "image": "images/nodejs.png",
+          "title": "Node.js",
+          "description": "I have non-commercial experience gained in my side projects.",
+          "link": ""
+        },
+          {
+              "image": "images/js.png",
+              "title": "JavaScript",
+              "description": "The language I have the biggest experience with. I has been working commercially with JS since I started working from Bosch. I train my skills also in non commercial projects.",
+              "link": ""
+          },
+          {
+              "image": "images/angular.png",
+              "title": "Angular",
+              "description": "Currently I have biggest commercial experience as Angular Developer. I have been building Angular application since 2020. I know Angular 2+, RXJS, Angular Material, PrimeNG and code techniques",
+              "link": ""
+          },
+          {
+              "image": "images/html.png",
+              "title": "HTML",
+              "description": "Commercial experience gained at work with JavaScript and Angular.",
+              "link": ""
+          },
+          {
+              "image": "images/css.png",
+              "title": "CSS",
+              "description": "Commercial experience gained at work with JavaScript and Angular.",
+              "link": ""
+          },
+          {
+              "image": "images/git.png",
+              "title": "Git",
+              "description": "Experience gained at commercial work.",
+              "link": ""
+          },
+          {
+              "image": "images/firebase.png",
+              "title": "Firebase",
+              "description": "Cloud NoSQL database I use in my frontend projects",
+              "link": ""
+          },
+          {
+              "image": "images/python.png",
+              "title": "Python",
+              "description": "This is my target language to work with. My experience is based on studies and non commercial projects - mainly machine learning and Data Science ones (neural nerworks from scratch, image recognition, keras, tensorflow, numpy, pandas). I have teached Python as a programming teacher in Instakod firm.",
+              "link": ""
+          },
+          {
+              "image": "images/flask.png",
+              "title": "Flask",
+              "description": "I have worked with this micro-framework while I worked on my thesis. Microservices written in Flask were the major part of my application.",
+              "link": ""
+          },
+          {
+              "image": "images/android.jpeg",
+              "title": "Android",
+              "description": "I have developed two non commercial applications. My experience is based on developing in Java and Android Studio.",
+              "link": ""
+          },
+          {
+              "image": "images/keras.png",
+              "title": "Keras",
+              "description": "Non commercial experience - I use it in my Machine Learning projects.",
+              "link": ""
+          },
+          {
+              "image": "images/tensorflow.png",
+              "title": "Tensorflow",
+              "description": "Cloud application I used in my mobile and frontend projects",
+              "link": ""
+          }
+      ]
+  },
+  "projects": {
+      "title": "My Own Projects",
+      "modules": [
+        {
+          "image": "images/project.png",
+          "title": "Technical Analysis Project",
+          "description": "Project written in Spring and JavaScript. It automatically generates simple indicators of technical analysis of stocks.",
+          "link": "https://github.com/DanGolawski/TechnicalAnalysisProject"
+        },
+          {
+              "image": "images/project.png",
+              "title": "Understandly",
+              "description": "Machine Learning project (NLP). It is able to read upploaded text and answer questions based on it. Code is written in Flask (Python) and pure JavaScript, HTML, CSS. (Demo is published on my Instagram)",
+              "link": "https://github.com/DanGolawski/Understandly"
+          },
+          {
+              "image": "images/project.png",
+              "title": "This digital CV you are reading now",
+              "description": "This is frontend project written in pure HTML, CSS and JS using web components from scratch (like in Angular).",
+              "link": ""
+          },
+          {
+              "image": "images/project.png",
+              "title": "Statistics and Data Analysis Python Project",
+              "description": "Python project that generates Word file based on results of data analysis.",
+              "link": "https://github.com/DanGolawski/statistics_and_data_analysis_python_project"
+          },
+          {
+              "image": "images/project.png",
+              "title": "Frontend Flashcards",
+              "description": "Simple Angular project written in Angular as flashcards.",
+              "link": ""
+          },
+          {
+              "image": "images/project.png",
+              "title": "Porsche Recognizer",
+              "description": "Machine Learning project which recognizes Porsche car on images.",
+              "link": ""
+          },
+          {
+              "image": "images/project.png",
+              "title": "Other projects available on my GitHub",
+              "description": "",
+              "link": "https://github.com/DanGolawski"
+          }
+      ]
+  },
+  "skills": {
+      "title": "Skills",
+      "modules": [
+        {
+          "image": "images/microservices.png",
+          "title": "Web Development - Microservices",
+          "description": "commercial and non commercial projects",
+          "link": ""
+        },
+          {
+              "image": "images/frontend.jpg",
+              "title": "Web Development - Frontend",
+              "description": "commercial experience, non commercial projects",
+              "link": ""
+          },
+          {
+              "image": "images/machinelearning.png",
+              "title": "Machine Learning & Data Science",
+              "description": "studies at Polish Japanese Academy of Information Technology, non commercial projects",
+              "link": ""
+          },
+          {
+              "image": "images/mobile.jpg",
+              "title": "Android Apps",
+              "description": "non commercial projects",
+              "link": ""
+          }
+      ]
+  },
+  "otherexperience": {
+      "title": "Other Experiences",
+      "modules": [
+          {
+              "image": "images/suez.png",
+              "time": "",
+              "title": "Suez Poland (PreZero) - Dev Intern",
+              "description": "I worked on WEB and mobile applications written in low-code application Mendix.",
+              "link": ""
+          },
+          {
+              "image": "images/instakod.png",
+              "time": "",
+              "title": "Instakod - Programming Teacher",
+              "description": "I teached Python language basics in programming school for kids - very challenging.",
+              "link": ""
+          },
+          {
+              "image": "images/sfbcc.png",
+              "time": "",
+              "title": "SFBCC - member",
+              "description": "I was a member of FR team organizing partners for an event. It was good practice of soft skills",
+              "link": ""
+          },
+          {
+              "image": "images/pzu.jpg",
+              "time": "",
+              "title": "PZU - Assistance Consultant",
+              "description": "I worked as Assistance Consultant - organized roadside assistance and cars. It was great opportunity to practice patience and quiet in stressfull situations.",
+              "link": ""
+          },
+          {
+              "image": "images/sda.png",
+              "time": "",
+              "title": "Programming Trainer",
+              "description": "I have been programming trainer in bootcamp lessons with HTML, CSS, JavaScript, http and Angular",
+              "link": ""
+          }
+      ]
+  },
+  "education": {
+      "title": "Education",
+      "modules": [
+          {
+              "image": "images/wat.jpg",
+              "time": "since 10.2017",
+              "title": "Military University of Technology - Computer Science",
+              "description": "",
+              "link": ""
+          },
+          {
+              "image": "images/pjatk.png",
+              "time": "since 10.2021",
+              "title": "Polish Japanese Academy of Information Technology - Data Science",
+              "description": "",
+              "link": ""
+          }
+      ]
+
+  },
+  "socialmedia": {
+      "title": "Network Profiles",
+      "modules": [
+          {
+              "image": "images/github.png",
+              "title": "Github",
+              "description": "",
+              "link": "https://github.com/DanGolawski"
+          },
+          {
+              "image": "images/medium.png",
+              "title": "Medium",
+              "description": "",
+              "link": "https://dangolawski.medium.com/"
+          }
+      ]
+
+  },
+  "contact": {
+      "title": "Contact",
+      "modules": [
+          {
+              "image": "images/phone.png",
+              "title": "Phone Number",
+              "description": "515 45 15 15",
+              "link": ""
+          },
+          {
+              "image": "images/email.png",
+              "title": "Email",
+              "description": "dangolawski@gmail.com",
+              "link": ""
+          },
+          {
+              "image": "images/home.png",
+              "title": "Address",
+              "description": "Sonaty 4, 02-744 Warsaw",
+              "link": ""
+          }
+      ]
+
+  }
+}

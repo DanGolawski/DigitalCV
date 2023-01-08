@@ -32,7 +32,6 @@ class ContentItem extends HTMLElement {
         <div class="divider"></div>
         `
         this.shadowRoot.appendChild(templateContentItem.content.cloneNode(true));
-        // templateContentItem.querySelector('#item-img').style.background = `url(${moduleJson.image})`;
     }
 
     createTextElement(text, elemId, paragraph) {

@@ -17,13 +17,11 @@
     width: 80%;
     height: 0;
     padding-bottom: 80%;
-    /* margin-left: 10%; */
     margin-top: 10px;
     border-radius: 30%;
-    /* background: url('./profilowe.jpg'); */
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     border: 1px solid black;
 }
 

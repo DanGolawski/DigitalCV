@@ -43,9 +43,16 @@ class LeftMenu extends HTMLElement {
     }
 
     async getJsonObject() {
-        const jsonObj = await fetch('./content.json');
+        const filename = this.getFileName();
+        const jsonObj = await fetch(filename);
         const content = await jsonObj.json();
         return content;
+    }
+
+    getFileName() {
+        let params = (new URL(document.location)).searchParams;
+        let technologyField = params.get('tech') ?? 'frontend';
+        return `./content/${technologyField}.json`;
     }
 
     handleBtnsClick() {

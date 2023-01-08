@@ -53,6 +53,12 @@
                 "link": ""
             },
             {
+                "image": "images/nodejs.png",
+                "title": "Node.js",
+                "description": "I have non-commercial experience gained in my side projects.",
+                "link": ""
+            },
+            {
                 "image": "images/git.png",
                 "title": "Git",
                 "description": "Experience gained at commercial work.",

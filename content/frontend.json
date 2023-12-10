@@ -3,6 +3,13 @@
         "title": "Experience",
         "modules": [
             {
+                "image": "images/nordea.png",
+                "time": "",
+                "title": "Nordea",
+                "description": "I've been part of frontend team working on microfrontend application for clients and internal use. We've used Angular 16, Ngxs, Jenkins and Sass",
+                "link": ""
+            },
+            {
                 "image": "images/cez.jpg",
                 "time": "22 months",
                 "title": "Centrum e-Zdrowia - Frontend Developer",

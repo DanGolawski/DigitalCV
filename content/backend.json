@@ -22,7 +22,14 @@
             "title": "Bosch - Frontend Developer",
             "description": "I worked on a CRUD frontend application of fleet management project written in Angular Framework. I was a member of Polish-German team.",
             "link": ""
-        }
+        },
+        {
+            "image": "images/ey.png",
+            "time": "3 months",
+            "title": "EY - Data Engineer (Internship)",
+            "description": "I have been working as a member of Data Engineering team which develops text recognition application for documents.",
+            "link": ""
+          }
       ]
   },
   "technologies": {
@@ -281,12 +288,6 @@
               "image": "images/email.png",
               "title": "Email",
               "description": "dangolawski@gmail.com",
-              "link": ""
-          },
-          {
-              "image": "images/home.png",
-              "title": "Address",
-              "description": "Sonaty 4, 02-744 Warsaw",
               "link": ""
           }
       ]

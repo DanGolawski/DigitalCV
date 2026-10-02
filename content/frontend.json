@@ -5,28 +5,28 @@
             {
                 "image": "images/nordea.png",
                 "time": "36 months",
-                "title": "Nordea",
+                "title": "Nordea - Angular Developer with Java",
                 "description": "I've been part of frontend team working on microfrontend application for clients and internal use. We've used Angular 16, Ngxs, Jenkins and Sass",
                 "link": ""
             },
             {
                 "image": "images/cez.jpg",
                 "time": "22 months",
-                "title": "Centrum e-Zdrowia - Frontend Developer",
+                "title": "Centrum e-Zdrowia - Angular Developer",
                 "description": "I was working on application for public sector - a system to manage blood donations in Poland. I was a member of LeSS frontend team.",
                 "link": "https://www.gov.pl/web/nck/e-krew-informatyzacja-publicznej-sluzby-krwi-oraz-rozwoj-nadzoru-nad-krwiolecznictwem"
             },
             {
                 "image": "images/bosch.png",
                 "time": "11 months",
-                "title": "Bosch - Frontend Developer",
+                "title": "Bosch - Angular Developer with Java",
                 "description": "I worked on a CRUD frontend application of fleet management project written in Angular Framework. I was a member of Polish-German team.",
                 "link": ""
             },
             {
                 "image": "images/santander.png",
                 "time": "9 months",
-                "title": "Santander - Backend Developer",
+                "title": "Santander - Backend Developer with Angular",
                 "description": "I worked on a project for a new insurance product. I was a member of the agile backend team and worked in Java and Spring technologies building the application in microservices architecture.",
                 "link": ""
             }
